@@ -1,0 +1,7 @@
+# Keep scripts and workflows compatible across operating systems.
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Keep the userscript line endings stable.
+extension/*.js text eol=lf

@@ -1,0 +1,7 @@
+
+# Local generated artifacts.
+.claude/codemap/
+
+# Private development notes.
+/docs/todo/*
+!/docs/todo/README.md
